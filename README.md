@@ -13,7 +13,6 @@
 
 
 > You can read my work here
-> > You can read my work here
 [ISI Final Report Satyam Dubey.pdf](https://github.com/dsatyam09/Quntative-Analysis-of-normalized-color-image-in-Different-Color-Models./blob/main/ISI%20Final%20Report%20Satyam%20Dubey.pdf)
 
 
